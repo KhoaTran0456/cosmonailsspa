@@ -1,0 +1,606 @@
+{
+  "info": {
+    "salon": {
+      "store"     : "Cosmo Nails & Spa",
+      "slug"      : "Cosmo-nails-spa",
+      "phone"     : "(469) 543-0229",
+      "p2hone"    : "(925) 945-0340",
+      "p3hone"    : "(510) 823-2344",
+      "email"     : "tiffanytran568@gmail.com",
+      "address"   : "350 Farm to Market Road 544, Murphy, Texas 75094",
+      "address_2" : "Emeryville Public Market: 6001 Shellmound Ave. Emeryville, CA",
+      "address_3" : "Oakland Broadway Terrace: 5108 Broadway Ave. Oakland, CA",
+      "district"  : "Murphy",
+      "state"     : "Texas 75094",
+      "time_1"    : "[Mon - Fri]: 10:00 AM - 07:30 PM",
+      "time_2"    : "[Sat]: 09:00 AM - 07:00 PM",
+      "time_3"    : "[Sun]: 11:00 AM - 06:00 PM"
+    },
+    "social": {
+      "facebook"  : "https://www.facebook.com/CosmoNailsMurphy",
+      "instagram" : "https://www.instagram.com/cosmonailsandspain",
+      "google"    : "https://goo.gl/maps/j7DbrasDgdjP1vdC6",
+      "booking"   : "https://www.lldtek.com/salon/appt/NTg4NTh8Y29zbW84NzY5fFRYXzA4NzY5fGVlY2M3YjQyMTNkODNjNGJmMDg4NWJhNjRiNjI3ZjFm",
+      "maps"      : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3345.72360691674!2d-96.6226965845112!3d33.01106168090205!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864c1b75f565a405%3A0xea3d31d770f98c2d!2sCosmo%20Nails%20%26%20Spa!5e0!3m2!1sen!2s!4v1678428394394!5m2!1sen!2s",
+      "map2s"     : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3150.7917312061227!2d-122.29580418440588!3d37.84176131607511!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857e5caa3c4309%3A0xf64bc5f7b12a39ee!2sThe%20Lounge%20Nail%20Spa!5e0!3m2!1sen!2s!4v1676869791657!5m2!1sen!2s",
+      "map3s"     : "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3151.0847390148565!2d-122.25173878440603!3d37.83490201647037!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80857dd7d87e7151%3A0xf757788791a3fa6e!2sThe%20Lounge%20Nail%20Spa!5e0!3m2!1sen!2s!4v1676869840305!5m2!1sen!2s"
+    },
+    "color": {
+      "primary"               : "#3F2B2B",
+      "primary_light"         : "#87DD2C",
+      "primary_hover"         : "#87DD2C",
+      "secondary"             : "#90C73E",
+      "secondary_hover"       : "#88BC3A",
+      "text_primary"          : "#FFFFFF",
+      "text_primary_hover"    : "#FFFFFF",
+      "text_secondary"        : "#FFFFFF",
+      "text_secondary_hover"  : "#FFFFFF",
+      "text_title"            : "#429D64",
+      "text_title_hover"      : "#90C73E"
+    },
+    "debug": "on",
+    "path_image": "images",
+    "domain": "http://127.0.0.1:5501/"
+  },
+  "specialties": [
+    {
+      "name": "specialties-01",
+      "url": "Cosmo-nails-spa-specialties-01.jpg"
+    },
+    {
+      "name": "specialties-02",
+      "url": "Cosmo-nails-spa-specialties-02.jpg"
+    },
+    {
+      "name": "specialties-03",
+      "url": "Cosmo-nails-spa-specialties-03.jpg"
+    },
+    {
+      "name": "specialties-04",
+      "url": "Cosmo-nails-spa-specialties-04.jpg"
+    },
+    {
+      "name": "specialties-05",
+      "url": "Cosmo-nails-spa-specialties-05.jpg"
+    },
+    {
+      "name": "specialties-06",
+      "url": "Cosmo-nails-spa-specialties-06.jpg"
+    },
+    {
+      "name": "specialties-07",
+      "url": "Cosmo-nails-spa-specialties-07.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Cosmo-nails-spa-specialties-08.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Cosmo-nails-spa-specialties-09.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Cosmo-nails-spa-specialties-10.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Cosmo-nails-spa-specialties-11.jpg"
+    },
+    {
+      "name": "specialties-08",
+      "url": "Cosmo-nails-spa-specialties-12.jpg"
+    }
+  ],
+  
+  "categories": [
+    {
+      "name": "PEDICURES",
+      "src": "Cosmo-nails-spa-service-01.jpg",
+      "home": true
+    },
+    {
+      "name": "MANICURES",
+      "src": "Cosmo-nails-spa-service-02.jpg",
+      "home": true
+    },
+    {
+      "name": "NAIL ENHANCEMENTS",
+      "src": "Cosmo-nails-spa-service-03.jpg",
+      "home": true
+    },
+    {
+      "name": "SOLAR NAILS",
+      "src": "Cosmo-nails-spa-service-04.jpg",
+      "home": false
+    },
+    {
+      "name": "NEXGEN NAILS",
+      "src": "Cosmo-nails-spa-service-05.jpg",
+      "home": false
+    },
+    {
+      "name": "SHELLAC MANICURES",
+      "src": "Cosmo-nails-spa-service-06.jpg",
+      "home": false
+    },
+    {
+      "name": "ADDITIONAL SERVICES",
+      "src": "Cosmo-nails-spa-service-07.jpg",
+      "home": false
+    },
+    {
+      "name": "SPECIAL",
+      "src": "Cosmo-nails-spa-service-08.jpg",
+      "home": false
+    },
+    {
+      "name": "FACIAL",
+      "src": "Cosmo-nails-spa-service-09.jpg",
+      "home": false
+    },
+    {
+      "name": "WAXING",
+      "src": "Cosmo-nails-spa-service-10.jpg",
+      "home": false
+    },
+    {
+      "name": "EYELASH EXTENSIONS",
+      "src": "Cosmo-nails-spa-service-11.jpg",
+      "home": false
+    }
+    
+  ],
+
+  "services": [
+    {
+      "category": "PEDICURES",
+      "name": "Classic Spa Pedicure",
+      "url": "",
+      "price": 28,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Cosmo Spa Pedicure",
+      "url": "",
+      "price": 33,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Deluxe Spa Pedicure",
+      "url": "",
+      "price": 38,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Paraffin Spa Pedicure",
+      "url": "",
+      "price": 43,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Lemon Spa Pedicure",
+      "url": "",
+      "price": 48,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Cucumber Spa Pedicure",
+      "url": "",
+      "price": 53,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Vitamin Spa Pedicure",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Milk & Honey Spa Pedicure",
+      "url": "",
+      "price": 55,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Jelly Spa Pedicure",
+      "url": "",
+      "price": 60,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Volcano Spa Pedicure",
+      "url": "",
+      "price": 65,
+      "plus": false
+    },
+    {
+      "category": "PEDICURES",
+      "name": "Detox Spa Pedicure",
+      "url": "",
+      "price": 70,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "MANICURES",
+      "name": "Basic Manicure",
+      "url": "",
+      "price": 17,
+      "plus": false
+    },
+    {
+      "category": "MANICURES",
+      "name": "Paraffin Manicure",
+      "url": "",
+      "price": 22,
+      "plus": false
+    },
+    {
+      "category": "MANICURES",
+      "name": "Deluxe Manicure",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "NAIL ENHANCEMENTS",
+      "name": "Full Set Acrylic",
+      "url": "",
+      "price": 30,
+      "plus": false
+    },
+    {
+      "category": "NAIL ENHANCEMENTS",
+      "name": "Fill Acrylic",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+    {
+      "category": "NAIL ENHANCEMENTS",
+      "name": "Full Set Regular White Tip",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "SOLAR NAILS",
+      "name": "Full Set Pink & White",
+      "url": "",
+      "price": 45,
+      "plus": false
+    },
+    {
+      "category": "SOLAR NAILS",
+      "name": "Fill Pink & White",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "SOLAR NAILS",
+      "name": "Fill Pink Only",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "NEXGEN NAILS",
+      "name": "Full Set Color On Real Nails",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "NEXGEN NAILS",
+      "name": "Full Set Color W/ Tips",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "NEXGEN NAILS",
+      "name": "Full Set Pink & White",
+      "url": "",
+      "price": 45,
+      "plus": false
+    },
+    {
+      "category": "NEXGEN NAILS",
+      "name": "Extra For Removal",
+      "url": "",
+      "price": 3,
+      "plus": false
+    },
+    {
+      "category": "NEXGEN NAILS",
+      "name": "Extra For Tips",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "SHELLAC MANICURES",
+      "name": "Gel Polish (W/ Manicure)",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "SHELLAC MANICURES",
+      "name": "Gel Polish (W/O Manicure)",
+      "url": "",
+      "price": 25,
+      "plus": false
+    },
+    {
+      "category": "SHELLAC MANICURES",
+      "name": "Gel Polish French (W/ Manicure)",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "SHELLAC MANICURES",
+      "name": "Gel Polish French (W/O Manicure)",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "ADDITIONAL SERVICES",
+      "name": "Acrylic Soak Off",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "ADDITIONAL SERVICES",
+      "name": "Nail Repair",
+      "url": "",
+      "price": 5,
+      "plus": true
+    },
+    {
+      "category": "ADDITIONAL SERVICES",
+      "name": "Cut Down",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "ADDITIONAL SERVICES",
+      "name": "Special Shape",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "ADDITIONAL SERVICES",
+      "name": "Extra-Long Length",
+      "url": "",
+      "price": 5,
+      "plus": false
+    },
+    {
+      "category": "ADDITIONAL SERVICES",
+      "name": "Polish Change Hand",
+      "url": "",
+      "price": 9,
+      "plus": false
+    },
+    {
+      "category": "ADDITIONAL SERVICES",
+      "name": "Polish Change Toes",
+      "url": "",
+      "price": 12,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "SPECIAL",
+      "name": "SPECIAL Classic Mani & Pedi Combo",
+      "url": "",
+      "price": 43,
+      "plus": false
+    },
+    {
+      "category": "SPECIAL",
+      "name": "Kid's Combo",
+      "url": "",
+      "price": 28,
+      "plus": true
+    },
+    {
+      "category": "SPECIAL",
+      "name": "Polish Change (Kids)",
+      "url": "",
+      "price": 7,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "FACIAL",
+      "name": "Mini Facial",
+      "url": "",
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "FACIAL",
+      "name": "Signature Facial",
+      "url": "",
+      "price": 80,
+      "plus": false
+    },
+    {
+      "category": "FACIAL",
+      "name": "Just For Men",
+      "url": "",
+      "price": 80,
+      "plus": false
+    },
+
+
+
+    {
+      "category": "WAXING",
+      "name": "Lips",
+      "url": "",
+      "price": 6,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Chin",
+      "url": "",
+      "price": 7,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Eyebrows",
+      "url": "",
+      "price": 10,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Full Face",
+      "url": "",
+      "price": 35,
+      "plus": false
+    },
+    {
+      "category": "WAXING",
+      "name": "Underarms",
+      "url": "",
+      "price": 20,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Arms Haft",
+      "url": "",
+      "price": 30,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Arms Full",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Legs Haft",
+      "url": "",
+      "price": 30,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Legs Full",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Stomach",
+      "url": "",
+      "price": 20,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Chest",
+      "url": "",
+      "price": 35,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Back",
+      "url": "",
+      "price": 40,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Bikini",
+      "url": "",
+      "price": 30,
+      "plus": true
+    },
+    {
+      "category": "WAXING",
+      "name": "Brazilian",
+      "url": "",
+      "price": 45,
+      "plus": true
+    },
+
+
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Full Set Eyelashes (Single)",
+      "url": "",
+      "price": 120,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill Set Eyelashes (Single)",
+      "url": "",
+      "price": 50,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Full Set Eyelashes (Volume)",
+      "url": "",
+      "price": 40,
+      "plus": false
+    },
+    {
+      "category": "EYELASH EXTENSIONS",
+      "name": "Refill Set Eyelashes (Volume)",
+      "url": "",
+      "price": 20,
+      "plus": false
+    }
+  ]
+}
